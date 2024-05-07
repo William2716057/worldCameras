@@ -1,0 +1,3 @@
+C:\Users\Wills\source\repos\liveCameras\liveCameras\obj\Debug\liveCameras.njsproj.AssemblyReference.cache
+C:\Users\Wills\source\repos\liveCameras\liveCameras\obj\Debug\liveCameras.njsproj.CoreCompileInputs.cache
+C:\Users\Wills\source\repos\liveCameras\liveCameras\bin\Microsoft.NodejsTools.WebRole.dll
