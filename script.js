@@ -4,15 +4,20 @@ const videoIds = [
     "3ottn7kfRuc",
     "mr41cCpwszE",
     "f6npxyqfXAI", 
+    "9BDC3m7wkT0",
     //continue adding
 ];
 
 //places in Korea
 const koreaPlaces = [
-    { place: "Seoul", videoId: "SEOUL_VIDEO_ID" },
+    { place: "Select From Dropdown", videoId: "Select" },
     { place: "Gangnam", videoId: "3ottn7kfRuc" },
     { place: "Myeongdong", videoId: "mr41cCpwszE" },
     { place: "Itaewon", videoId: "f6npxyqfXAI" },
+    { place: "Jongno", videoId: "9BDC3m7wkT0" },
+   // { place: "Gangnam", videoId: "3ottn7kfRuc" },
+   // { place: "Myeongdong", videoId: "mr41cCpwszE" },
+   // { place: "Itaewon", videoId: "f6npxyqfXAI" },
     //continue adding
 ];
 
