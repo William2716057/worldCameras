@@ -6,7 +6,21 @@ const videoIds = [
     "9BDC3m7wkT0",
     "r0q6bam_m6c",
     "7agE233fpM4",
-    "3LXQWU67Ufk"
+    "3LXQWU67Ufk",
+    "XEZadYdknZo",
+    "NippTUo17aI",
+    "9lJayd1qjAA",
+    "xVA7nCNOpvk",
+    "UvdEP5bNjsM",
+    "eHG4YV0831U",
+    "Zs2DOO5Qmds",
+    "zkvokrIlnK8",
+    "r1MIwavF_sw",
+    "nboBPR-OfR8",
+    "TL2x4vyo3Sk",
+    "Nci33g-dVEo",
+    ""
+
 ];
 //store places
 const koreaPlaces = [
@@ -14,7 +28,21 @@ const koreaPlaces = [
     { place: "Gangnam", videoId: "3ottn7kfRuc" },
     { place: "Myeongdong", videoId: "mr41cCpwszE" },
     { place: "Itaewon", videoId: "f6npxyqfXAI" },
-    { place: "Jongno", videoId: "9BDC3m7wkT0" }
+    { place: "Jongno", videoId: "9BDC3m7wkT0" },
+    { place: "Seoul,subway line2 Daelim station ", videoId: "XEZadYdknZo" },
+    { place: "Lotte World Tower", videoId: "NippTUo17aI" },
+    { place: "Seoul, Gwanghwamun Boulevard", videoId: "9lJayd1qjAA" },
+    { place: "Seoul, Seoul Station Plaza", videoId: "UvdEP5bNjsM" },
+    { place: "Seoul, Lotte World", videoId: "nboBPR-OfR8" },
+    { place: "Seoul, Jamsil Bridge", videoId: "Nci33g-dVEo" },
+    { place: "Seoul, SeogangBridge", videoId: "JiyB29FducQ" },
+    { place: "Gangwondo, Sokcho Beach", videoId: "Zs2DOO5Qmds" },
+    { place: "Suwon, Gwanggyo Lake Park", videoId: "zkvokrIlnK8" },
+    { place: "Busan, Songjeong beach", videoId: "r1MIwavF_sw" },
+    { place: "Busan, Gwangandaegyo Bridge", videoId: "xVA7nCNOpvk" },
+    { place: "Jeju Island, Seongsan Ilchulbong", videoId: "TL2x4vyo3Sk" },
+    { place: "Jeju Island", videoId: "eHG4YV0831U" }
+    //{ place: "to add", videoId: "to add" }
 ];
 
 const spacePlaces = [
