@@ -19,7 +19,7 @@ const videoIds = [
     "nboBPR-OfR8",
     "TL2x4vyo3Sk",
     "Nci33g-dVEo",
-    ""
+    "0UUu10W-K2Q"
 
 ];
 //store places
@@ -54,6 +54,11 @@ const spacePlaces = [
 const italyPlaces = [
     { place: "Select From Dropdown", videoId: "Select" },
     { place: "Venice", videoId: "3LXQWU67Ufk" }
+];
+
+const japanPlaces = [
+    { place: "Select From Dropdown", videoId: "Select" },
+    { place: "Shinjuku Station", videoId: "0UUu10W-K2Q" }
 ];
 
 function populateDropdown(dropdown, places) {
@@ -94,6 +99,11 @@ function searchVideos() {
         const dropdown = document.createElement("select");
         dropdown.id = "italyDropdown";
         populateDropdown(dropdown, italyPlaces);
+        videoList.appendChild(dropdown);
+    } else if (searchInput === "japan") {
+        const dropdown = document.createElement("select");
+        dropdown.id = "japanDropdown";
+        populateDropdown(dropdown, japanPlaces);
         videoList.appendChild(dropdown);
     } else {
         videoIds.forEach(videoId => {
